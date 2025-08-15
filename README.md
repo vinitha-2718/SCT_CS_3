@@ -1,1 +1,1 @@
-# SCT_CS_3
+This project is a robust password strength checker developed in Python. It provides a score and actionable feedback, helping users create more secure passwords. The tool checks for a minimum length, as well as the inclusion of uppercase letters, lowercase letters, numbers, and special characters, offering clear suggestions for improvement.# SCT_CS_3
